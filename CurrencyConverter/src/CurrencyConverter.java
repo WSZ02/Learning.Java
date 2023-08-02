@@ -60,7 +60,7 @@ public class CurrencyConverter {
             while((inputLine = in.readLine()) != null){
                 response.append(inputLine);
             }in.close();
-
+            // potrzebny jar file "Dobre źródło"//
         }
     }
 }
